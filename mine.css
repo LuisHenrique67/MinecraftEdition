@@ -1,0 +1,82 @@
+.cabecalho{
+
+	background-color: #467024;
+	display: flex;
+	justify-content: space-between;
+	align-items:center ;
+	padding:20px;
+	margin-bottom: 25px;
+
+}
+
+.logo {
+
+	width: 100px;
+	height: 90px;
+} 
+
+.navegacao{
+
+	display: flex;
+
+
+}
+
+.navegacao p{
+
+	margin-right: 12px;
+	color: white;
+	font-size: 18.5px;
+	cursor: pointer;
+
+}
+.navegacao p:hover {
+	color: rgb(136, 157, 135);
+}
+/*Parte yan*/
+
+.principal{
+
+    display: flex;
+    padding: 0 2.5em;
+	flex-direction: column;
+	justify-content: center;
+	
+
+}
+
+
+.principal p{
+
+    margin: 0 1em;
+    font-size: 1.2em;
+    color: #282828;
+
+}
+
+.imagens img {
+
+	width: 32px;
+	height: 32px;
+
+	
+}
+.imagens {
+
+	display: flex;
+	justify-content: center;
+    margin-top: 15px;
+	background-color: #467024;
+	padding:15px;
+
+}
+.mine{
+	width: 420px;
+	height: 420px;
+}
+.text{
+	display: flex;
+	font-size:17px ;
+}
+
+
